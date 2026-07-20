@@ -78,10 +78,11 @@ michelmisk@vps:~$ cat ./whoami.txt
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  "The future is already here — it's just not evenly           │
-│   distributed."                              — W. Gibson      │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│  "Arjun, noblest amongst men, that person who is not    │
+│   affected by happiness and distress, and remains       │
+│   steady in both, becomes eligible for liberation."     │
+└─────────────────────────────────────────────────────────┘
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/miskmichel)
