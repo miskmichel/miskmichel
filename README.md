@@ -89,7 +89,9 @@ side_quests:
 | [`pygame-fractals`](https://github.com/miskmichel/pygame-fractals) | Real-time fractal rendering in pygame |
 | [`neural-network-python`](https://github.com/miskmichel/neural-network-python) | A neural net built from first principles — zero ML libraries |
 | [`manim-cylinder`](https://github.com/miskmichel/manim-cylinder) | Mathematical animation with manim |
-| [`game-of-life-pygame`](https://github.com/miskmichel/game-of-life-pygame) | Conway's Game of Life — emergence from four rules |
+| [`language-learning`](https://github.com/miskmichel/language-learning) | Tooling for spaced repetition, phonology drills & vocabulary acquisition |
+| [`morning-brief`](https://github.com/miskmichel/morning-brief) | Automated daily briefing — the day's signal, assembled before coffee |
+| [`remote-control`](https://github.com/miskmichel/remote-control) | Controlling machines from anywhere — remote command & orchestration |
 | [`random-numbers-distribution`](https://github.com/miskmichel/random-numbers-distribution) | Visualizing convolution & the CLT in the wild |
 | [`Criptografia-e-Crise-Criptografica`](https://github.com/miskmichel/Criptografia-e-Crise-Criptografica) | Monografia: cryptography and the coming cryptographic crisis |
 
