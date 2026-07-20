@@ -9,45 +9,26 @@
     ╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+control+%26+automation+engineering+%40+USP;%3E+quant+research+%2F+stochastic+processes;%3E+building+voice-first+AI+agents;%3E+optimizing+the+meat+machine+with+data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+applied+mathematics+%40+USP;%3E+quant+research+%2F+stochastic+processes;%3E+building+voice-first+AI+agents;%3E+turning+noise+into+decisions)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/LOC-S%C3%83O_PAULO_%2F%2F_BR-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41)
 ![Status](https://img.shields.io/badge/STATUS-SHIPPING-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41)
-![Focus](https://img.shields.io/badge/FOCUS-AI_%2F%2F_QUANT_%2F%2F_CONTROL-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41)
+![Focus](https://img.shields.io/badge/FOCUS-MATH_%2F%2F_AI_%2F%2F_QUANT-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41)
 
 </div>
 
 ---
 
 ```console
-michel@matrix:~$ cat ./whoami.txt
+michelmisk@noisefloor:~$ cat ./whoami.txt
 ```
 
-> Engineering student at **USP** (Universidade de São Paulo), Control & Automation track.
+> **Applied Mathematics** student at **USP** (Universidade de São Paulo).
 > I live at the intersection of **stochastic processes**, **machine learning**, and
 > **things that shouldn't work but do**. I build systems that turn noisy signals —
 > markets, comment sections, heart rate variability — into decisions.
 >
 > If it can be measured, modeled, and iterated on, I'm probably already doing it.
-
----
-
-## `>` ACTIVE_PROCESSES
-
-```
-PID    PROCESS                    STATUS      DESCRIPTION
-────────────────────────────────────────────────────────────────────────────────
-0001   uful                       RUNNING     voice-first AI life coach — agent
-                                              orchestration, real-time calls,
-                                              dark cyberpunk UI
-0002   sentiment-tracker          RUNNING     political sentiment pipeline over
-                                              YouTube comments (Playwright +
-                                              SQLite + NLP)
-0003   quant-research             ONGOING     cross-sectional backtests, factor
-                                              models, signal decay analysis
-0004   self-telemetry             DAEMON      HRV / SpO2 / sleep architecture —
-                                              n=1 experiments on wetware
-```
 
 ---
 
@@ -87,9 +68,10 @@ machine_learning:
   - NLP & sentiment classification on noisy, ironic text
   - LLM agents, tool use, retrieval
 
-control_and_systems:
-  - dynamical systems, feedback, automation
+probability_and_analysis:
   - stochastic processes: Markov chains, Poisson processes
+  - concentration inequalities, conditional distributions
+  - dynamical systems, feedback, control
 
 data_and_signals:
   - web scraping at scale, pipeline design, storage schemas
@@ -131,19 +113,6 @@ side_quests:
 
 ---
 
-## `>` OPERATING_PRINCIPLES
-
-```diff
-+ measure first, optimize second, believe third
-+ every project ships with docs.md and changes_log.md
-+ a signal that survives transaction costs is the only real signal
-+ plan before you execute — the model proposes, I approve
-- vibes-based conclusions
-- untested backtests
-```
-
----
-
 <div align="center">
 
 ```
@@ -155,10 +124,8 @@ side_quests:
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/miskmichel)
 
-![Visitors](https://komarev.com/ghpvc/?username=miskmichel&style=for-the-badge&color=00FF41&label=CONNECTIONS)
-
 ```
-michel@matrix:~$ exit
+michelmisk@noisefloor:~$ exit
 [ session terminated ] █
 ```
 
