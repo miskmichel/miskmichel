@@ -24,10 +24,6 @@ michelmisk@noisefloor:~$ cat ./whoami.txt
 ```
 
 > **Applied Mathematics** student at **USP** (Universidade de São Paulo).
-> I live at the intersection of **stochastic processes**, **machine learning**, and
-> **things that shouldn't work but do**. I build systems that turn noisy signals —
-> markets, comment sections, heart rate variability — into decisions.
->
 > If it can be measured, modeled, and iterated on, I'm probably already doing it.
 
 ---
