@@ -1,12 +1,18 @@
 <div align="center">
 
 ```
-    ███╗   ███╗██╗███████╗██╗  ██╗    ███╗   ███╗██╗ ██████╗██╗  ██╗███████╗██╗
-    ████╗ ████║██║██╔════╝██║ ██╔╝    ████╗ ████║██║██╔════╝██║  ██║██╔════╝██║
-    ██╔████╔██║██║███████╗█████╔╝     ██╔████╔██║██║██║     ███████║█████╗  ██║
-    ██║╚██╔╝██║██║╚════██║██╔═██╗     ██║╚██╔╝██║██║██║     ██╔══██║██╔══╝  ██║
-      ██║ ╚═╝ ██║██║███████║██║    ██╗  ██║ ╚═╝ ██║   ██║╚██████╗██║  ██║███████╗███████╗
-    ╚═╝     ╚═╝╚═╝╚══════╝╚═╝     ╚═╝ ╚═╝     ╚═╝╚═╝      ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝
+    ███╗   ███╗██╗███████╗██╗  ██╗
+    ████╗ ████║██║██╔════╝██║ ██╔╝
+    ██╔████╔██║██║███████╗█████╔╝
+      ██║╚██╔╝██║██║╚════██║██╔═██╗
+      ██║ ╚═╝ ██║██║███████║██║  ██╗
+      ╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+           ███╗   ███╗██╗ ██████╗██╗  ██╗███████╗██╗
+           ████╗ ████║██║██╔════╝██║  ██║██╔════╝██║
+         ██╔████╔██║██║██║     ███████║█████╗  ██║
+         ██║╚██╔╝██║██║██║     ██╔══██║██╔══╝  ██║
+         ██║ ╚═╝ ██║██║╚██████╗██║  ██║███████╗███████╗
+         ╚═╝     ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+applied+mathematics+%40+USP;%3E+quant+research;%3E+building+voice-first+AI+agents;%3E+turning+noise+into+decisions;%3E+designing+software+worth+using)](https://git.io/typing-svg)
@@ -20,7 +26,7 @@
 ---
 
 ```console
-michelmisk@noisefloor:~$ cat ./whoami.txt
+michelmisk@vps:~$ cat ./whoami.txt
 ```
 
 > **Applied Mathematics** student at **USP** (Universidade de São Paulo).
@@ -51,37 +57,6 @@ michelmisk@noisefloor:~$ cat ./whoami.txt
 
 ---
 
-## `>` DOMAINS
-
-```yaml
-quantitative_finance:
-  - factor models, cross-sectional ranking, backtesting
-  - Sharpe / CAGR / turnover-aware cost modeling
-  - crypto market microstructure & signal validation
-
-machine_learning:
-  - neural networks from scratch (no frameworks, just math)
-  - NLP & sentiment classification on noisy, ironic text
-  - LLM agents, tool use, retrieval
-
-probability_and_analysis:
-  - stochastic processes: Markov chains, Poisson processes
-  - concentration inequalities, conditional distributions
-  - dynamical systems, feedback, control
-
-data_and_signals:
-  - web scraping at scale, pipeline design, storage schemas
-  - biometric time series (HRV, SpO2, sleep staging)
-
-side_quests:
-  - neuroscience & psychedelic research literature
-  - comparative phonology (Sanskrit / Arabic / Mandarin)
-  - poker: game theory, ranges, EV under uncertainty
-  - generative visuals: fractals, manim, cellular automata
-```
-
----
-
 ## `>` REPO_INDEX
 
 | REPO | PAYLOAD |
@@ -101,11 +76,7 @@ side_quests:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=miskmichel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41)
-
 ![Streak](https://streak-stats.demolab.com?user=miskmichel&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=1F6F3F)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miskmichel&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41)
 
 </div>
 
@@ -123,7 +94,7 @@ side_quests:
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/miskmichel)
 
 ```
-michelmisk@noisefloor:~$ exit
+michelmisk@vps:~$ exit
 [ session terminated ] █
 ```
 
