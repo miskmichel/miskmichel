@@ -5,8 +5,8 @@
   ████╗ ████║██║██╔════╝██║ ██╔╝  ████╗ ████║██║██╔════╝██║  ██║██╔════╝██║
   ██╔████╔██║██║███████╗█████╔╝   ██╔████╔██║██║██║     ███████║█████╗  ██║
   ██║╚██╔╝██║██║╚════██║██╔═██╗     ██║╚██╔╝██║██║██║     ██╔══██║██╔══╝  ██║
-  ██║ ╚═╝ ██║██║███████║██║    ██╗  ██║ ╚═╝ ██║██║╚██████╗██║  ██║  ███████╗███████╗
-  ╚═╝     ╚═╝╚═╝╚══════╝╚═╝    ╚═╝  ╚═╝     ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝  ╚══════╝╚══════╝
+  ██║ ╚═╝ ██║██║███████║██║    ██╗  ██║ ╚═╝ ██║██║╚██████╗██║  ██║███████╗███████╗
+  ╚═╝     ╚═╝╚═╝╚══════╝╚═╝    ╚═╝  ╚═╝     ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+applied+mathematics+%40+USP;%3E+quant+research;%3E+building+voice-first+AI+agents;%3E+turning+noise+into+decisions;%3E+designing+software+worth+using)](https://git.io/typing-svg)
